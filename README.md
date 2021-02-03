@@ -1,2 +1,3 @@
 # COMP-593
-COMP-593 repo lab 1
+COMP-593 Repository for Lab 1
+
